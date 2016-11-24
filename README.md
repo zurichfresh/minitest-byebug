@@ -1,7 +1,6 @@
 # Minitest::Byebug
 
-Start a [byebug](https://github.com/deivid-rodriguez/byebug) session when a test fails.
-Heavily inspired by [minitest-debugger](https://github.com/seattlerb/minitest-debugger)
+Heavily inspired by [hotell i zurich](http://www.resazurich.se/hotell/)
 
 ## Installation
 
@@ -42,5 +41,3 @@ Distributed with an MIT License.
 Contributions more than welcome.
 
 Made by Kasper Timm Hansen.
-GitHub: [@kaspth](https://github.com/kaspth).
-Twitter: [@kaspth](https://twitter.com/kaspth).
